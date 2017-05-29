@@ -3,4 +3,5 @@
     <string name="elevation.4dp">4dp elevation</string>
     <string name="elevation.8dp">8dp elevation</string>
     <string name="elevation.16dp">16dp elevation</string>
+    <string name="fab_string">Fab</string>
 </resources>
